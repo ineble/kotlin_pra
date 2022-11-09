@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../spring/gradle-4.10.2" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/framelayout" />
+            <option value="$PROJECT_DIR$/gridlayout" />
+            <option value="$PROJECT_DIR$/gridlayout1" />
+            <option value="$PROJECT_DIR$/gridlayout2" />
+            <option value="$PROJECT_DIR$/gridlayout3" />
+            <option value="$PROJECT_DIR$/linelayout" />
+            <option value="$PROJECT_DIR$/linelayout2" />
+            <option value="$PROJECT_DIR$/linelayout3" />
+            <option value="$PROJECT_DIR$/linelayout4" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/relativelayout" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

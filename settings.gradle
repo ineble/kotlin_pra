@@ -1,0 +1,27 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "My Application"
+include ':app'
+include ':myapplication'
+include ':linelayout'
+include ':linelayout2'
+include ':linelayout3'
+include ':linelayout4'
+include ':relativelayout'
+include ':framelayout'
+include ':gridlayout'
+include ':gridlayout1'
+include ':gridlayout2'
+include ':gridlayout3'
